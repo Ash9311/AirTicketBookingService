@@ -1,3 +1,15 @@
+## Authentication Service
+URL: <https://github.com/Ash9311/Auth_Service.git>
+
+## Booking Service
+URL: <https://github.com/Ash9311/AirTicketBookingService.git>
+
+## Email Service
+URL: <https://github.com/Ash9311/ReminderService>
+
+## Flights Service
+URL: <https://github.com/Ash9311/FlightsAndSearchService>
+
 # BOOKING-SERVICE DOCUMENTATION
 
 This micro-service mainly focusses on the booking of the flight tickets from the scheduled flights between various locations.
